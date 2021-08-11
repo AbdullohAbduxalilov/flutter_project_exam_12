@@ -12,7 +12,19 @@ https://github.com/AbdullohAbduxalilov/flutter_project_exam_12/blob/main/app-rel
 <a href="https://ibb.co/ccM1S4P"><img src="https://i.ibb.co/BVdt50m/Screenshot-1628691210.png" alt="Screenshot-1628691210" border="0"></a>
 <a href="https://ibb.co/hMLY0PL"><img src="https://i.ibb.co/qn7J6t7/Screenshot-1628691267.png" alt="Screenshot-1628691267" border="0"></a>
 <a href="https://ibb.co/hMLY0PL"><img src="https://i.ibb.co/qn7J6t7/Screenshot-1628691267.png" alt="Screenshot-1628691267" border="0"></a>
-adssadsaddadasdasdadada
+
+
+flashy_tab_bar2: ^0.0.3
+  snapping_sheet: ^3.1.0
+  firebase_core: ^1.4.0
+  firebase_auth:
+  google_sign_in:
+  image_picker: ^0.8.3+2
+  http:
+  synchronized:
+  sqflite:
+  path:
+
 
 
 This project is a starting point for a Flutter application.
