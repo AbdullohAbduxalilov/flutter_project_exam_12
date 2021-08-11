@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-<a href="https://ibb.co/zrjRKF8"><img src="https://i.ibb.co/SPWnqcQ/Screenshot-1628691287.png" alt="Screenshot-1628691287" border="0" width = 50px height = 50px ></a>
+<a href="https://ibb.co/zrjRKF8"><img src="https://i.ibb.co/SPWnqcQ/Screenshot-1628691287.png" alt="Screenshot-1628691287" border="0"></a>
 <a href="https://ibb.co/hMLY0PL"><img src="https://i.ibb.co/qn7J6t7/Screenshot-1628691267.png" alt="Screenshot-1628691267" border="0"></a>
 <a href="https://ibb.co/ccM1S4P"><img src="https://i.ibb.co/BVdt50m/Screenshot-1628691210.png" alt="Screenshot-1628691210" border="0"></a>
 <a href="https://ibb.co/HhMFMsK"><img src="https://i.ibb.co/y4MfM1N/Screenshot-1628690990.png" alt="Screenshot-1628690990" border="0"></a>
