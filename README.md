@@ -11,7 +11,7 @@ https://github.com/AbdullohAbduxalilov/flutter_project_exam_12/blob/main/app-rel
 <a href="https://ibb.co/HhMFMsK"><img src="https://i.ibb.co/y4MfM1N/Screenshot-1628690990.png" alt="Screenshot-1628690990" border="0"></a>
 <a href="https://ibb.co/ccM1S4P"><img src="https://i.ibb.co/BVdt50m/Screenshot-1628691210.png" alt="Screenshot-1628691210" border="0"></a>
 <a href="https://ibb.co/hMLY0PL"><img src="https://i.ibb.co/qn7J6t7/Screenshot-1628691267.png" alt="Screenshot-1628691267" border="0"></a>
-<a href="https://ibb.co/hMLY0PL"><img src="https://i.ibb.co/qn7J6t7/Screenshot-1628691267.png" alt="Screenshot-1628691267" border="0"></a>
+<a href="https://ibb.co/zrjRKF8"><img src="https://i.ibb.co/SPWnqcQ/Screenshot-1628691287.png" alt="Screenshot-1628691287" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>url image hosting</a><br />
                                  Packagelar: 
 
 flashy_tab_bar2: ^0.0.3
